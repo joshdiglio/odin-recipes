@@ -1,1 +1,2 @@
 # odin-recipes
+This project will consist of a main index page with links to a few recpies. The skills on display in this project are creating a repository in GitHub, navigating files and directories using the terminal and showing basic knowledge and understanding of what I have learned in the html language. 
